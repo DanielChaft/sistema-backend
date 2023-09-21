@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramacaoDoZero", "FichaCadastral\ProgramacaoDoZero.csproj", "{B34F630D-B260-4A7A-B098-4B59C44865E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DBScripts", "DBScripts", "{896DD62F-693B-46DC-ACD6-E2384557D6C5}"
+	ProjectSection(SolutionItems) = preProject
+		ScriptsPadrao.sql = ScriptsPadrao.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34F630D-B260-4A7A-B098-4B59C44865E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34F630D-B260-4A7A-B098-4B59C44865E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34F630D-B260-4A7A-B098-4B59C44865E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34F630D-B260-4A7A-B098-4B59C44865E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCD1CBA-1A9A-4BD4-BDA6-957309CFEEF8}
+	EndGlobalSection
+EndGlobal
